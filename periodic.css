@@ -1,0 +1,13 @@
+td{
+    text-align: center;
+    border: 5px solid;
+    height: 50px;
+    width: 50px;
+    border-style: groove;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: slategrey;
+}
+h3{
+ color: white;
+ background-color: black;
+}
